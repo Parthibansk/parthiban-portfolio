@@ -3,7 +3,7 @@ import { motion } from 'framer-motion'
 const strengths = [
   {
     title: 'Core delivery domains',
-    body: 'healthcare, finance, and data modernization solutions.',
+    body: 'healthcare,master data migration,finance, and data modernization solutions.',
   },
   {
     title: 'Technology stack',
